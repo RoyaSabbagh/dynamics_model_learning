@@ -1,8 +1,15 @@
-# README #
+# Learning object dynamics models using Bayesian regression #
 
 This is for learning dynamics of objects using regression methods. We have implemented Linear Regression and Bayesian Regression.
 
-Author: roya.sabbaghnovin@utah.edu
+
+### Dependencies ###
+
+- PYMC
+
+
+### Dataset ###
+- [Motion and force dataset](https://drive.google.com/open?id=1ZfU4pzrip4-twCX6-n82UdkqgEK28Xgu)
 
 ### How to set up? ###
 
